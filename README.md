@@ -17,7 +17,7 @@ Crie sua biblioteca de favoritos, compartilhe, melhore sua produtividade e tenha
 ## 📦 Acesso Rápido
 
 > Acesse o site agora:  
-👉 [https://SEUUSUARIO.github.io/linksmart-pro](https://SEUUSUARIO.github.io/linksmart-pro)
+👉 [https://augusto831.github.io/linksmart-pro](https://augusto831.github.io/linksmart-pro)
 
 > Fale comigo no WhatsApp:  
 📱 [Clique para abrir o chat](https://wa.me/5512991616582?text=Tenho%20interesse%20no%20LinkSmart%20Pro)
@@ -36,6 +36,6 @@ Crie sua biblioteca de favoritos, compartilhe, melhore sua produtividade e tenha
 ## 🛠️ Como rodar localmente
 
 ```bash
-git clone https://github.com/SEUUSUARIO/linksmart-pro.git
+git clone https://github.com/augusto831/linksmart-pro.git
 cd linksmart-pro
 abra o arquivo index.html no seu navegador
